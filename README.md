@@ -1,13 +1,14 @@
 *Project Info*
 ===================
 
-*Project developer*
+*Project developer & role*
 -------------------
-<code>김동철(조장)</code>
-<code>조유록</code>
-<code>박재선</code>
-<code>신준석</code>
-<code>박난주</code>
-<code>최효은</code>
+<code>김동철(조장)</code><br/>
+
+<code>조유록</code><br/>
+<code>박재선</code><br/>
+<code>신준석</code><br/>
+<code>박난주</code><br/>
+<code>최효은</code><br/>
 
 
