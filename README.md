@@ -1,4 +1,1 @@
-# itwillFurniture
-itwillWebProjectFurniture
-
 # Project Info
