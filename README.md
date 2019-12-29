@@ -2,13 +2,14 @@
 ===================
 
 
-*Project Content
+Project Content
 ----------------------
 <h5>itwillFurniture 저장소는 가구 쇼핑몰 프로젝트를 소스코드 및 프로젝트 실행시 필요한 파일들을 담고 있는 저장소입니다.</h5>
 <h5>KAARR KLINT 홈페이지를 모티브로 하여 가구 쇼핑몰을 개발했습니다. 가구 결제/주문 및 그외 공지사항,WishList 등을 구현하였으며 </h5>
 <h5>개발기간은 2019-11-16 ~ 12-26 입니다.</h5>
+<br/>
 
-*Project technology stack
+Project technology stack
 -------------------------
 <h5>OS : Window 7 </h5>
 <h5>WAS : Tomcat 8 </h5><
