@@ -1,5 +1,4 @@
-*Project Info*
-<br/>
+<h2>Project Info</h2>
 
 
 
