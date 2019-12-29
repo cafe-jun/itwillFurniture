@@ -12,7 +12,7 @@ Project Content
 Project technology stack
 -------------------------
 <h5>OS : Window 7 </h5>
-<h5>WAS : Tomcat 8 </h5><
+<h5>WAS : Tomcat 8 </h5>
 <h5>Front-End : javascript,Jquery</h5>
 <h5>Back-End : Spring framework</h5>
 <h5>DB : Oracle DB</h5>
