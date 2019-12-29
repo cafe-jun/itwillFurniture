@@ -35,3 +35,10 @@
 
 <img src="/githubimage/projectERD.png" width="850px" height="400px"></img><br/>
 
+
+*Project Site Structure*
+----------------------------
+
+<img src="/githubimage/projectSite.png" width="850px" height="400px"></img><br/>
+
+
