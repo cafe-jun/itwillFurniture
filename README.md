@@ -35,6 +35,28 @@
 
 <img src="/githubimage/projectERD.png" width="850px" height="400px"></img><br/>
 
+* <code>product(deco,livingroom,diningroom,bedroom,event)</code> : 상품 정보 테이블<br/>
+<b>ImageIndex : 상품별 이미지 인덱스</b><br/>
+<b>projectname : 상품 이름</b><br/>
+<b>cate : 상품 대분류 컬럼</b><br/>
+<b>cateEn : 상품 소분류 컬럼</b><br/>
+<b>price : 상품 가격</b><br/>
+<b>saveFileName : 상품이미지경로</b><br>
+
+* <code>fumember</code> : <b>고객정보 테이블</b><br/>
+<b>email : 고객이메일</b><br>
+<b>pwd : 고객 패스워드</b><br>
+<b>name : 고객이름</b><br>
+<b>salt : SHA-1 암호화 키 컬럼</b><br>
+<b>addr : 고객 주소</b><br>
+
+* <code></code> : <b>커뮤니티/결제 화면 Query,Wish List 구현</b>
+* <code>신준석</code> : <b>회원가입 & 로그인,지점관리,CartList & 결제 기능 구현</b>
+* <code>최효은</code> : <b>제품목록(Living&Bed),List 및 Detail 화면 구성,상품 DB 관리</b>
+* <code>박난주</code> : <b>제품 목록(Dining & Deco),List 및 Detail 화면 구성,상품 DB 관리</b>
+<br/>
+
+
 
 *Project Site Structure*
 ----------------------------
