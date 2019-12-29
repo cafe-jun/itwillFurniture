@@ -1,4 +1,4 @@
-<h2>Project Info</h2>
+<h1><b>Project Info</b></h1>
 
 
 
