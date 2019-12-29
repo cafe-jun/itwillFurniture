@@ -30,7 +30,7 @@
 <br/>
 
 
-*Project DB ERD (Entity-RelationShop Diagram)*
+*Project DB ERD (Entity-RelationShop Diagram) Structure*
 ----------------------------
 
 
