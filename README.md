@@ -1,6 +1,6 @@
 <h1><b>Project Info</b></h1>
 
-<img src="/email/klogo.jpg" width="450px" height="300px"></img><br/>
+<img src="/githubimage/projectMain.jpg" width="450px" height="300px"></img><br/>
 
 *Project Content*
 ----------------------
