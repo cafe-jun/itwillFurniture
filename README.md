@@ -1,6 +1,6 @@
 <h1><b>Project Info</b></h1>
 
-<img src="/githubimage/projectMain.jpg" width="450px" height="300px"></img><br/>
+<img src="/githubimage/projectMain.png" width="450px" height="300px"></img><br/>
 
 *Project Content*
 ----------------------
@@ -33,5 +33,5 @@
 *Project DB ERD (Entity-RelationShop Diagram) Structure*
 ----------------------------
 
-
+<img src="/githubimage/projectERD.png" width="450px" height="300px"></img><br/>
 
