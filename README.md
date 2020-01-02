@@ -76,6 +76,9 @@
 *Project Site Structure*
 ----------------------------
 
-<img src="/githubimage/projectSite.png" width="850px" height="400px"></img><br/>
+<img src="/githubimage/projectSite.png" width="850px" height="400px"></img><br/><br/>
+
+<li>test</li>
+
 
 
