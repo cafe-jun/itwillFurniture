@@ -78,7 +78,13 @@
 
 <img src="/githubimage/projectSite.png" width="850px" height="400px"></img><br/><br/>
 
-<li>test</li>
+<li><b>Company</b> : 회사 소개</li>
+<li><b>Product</b> : 제품 (Living,Dining,Bed,Deco)</li>
+<li><b>Location</b> : 회사 위치</li>
+<li><b>QnA</b> : 질문 답변 페이지</li>
+<li><b>Event</b> : 회사 이벤트 제품 페이지</li>
+<li><b>Member</b> : 회원가입,로그인 등 회원 관련 페이지</li>
+
 
 
 
