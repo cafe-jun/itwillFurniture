@@ -50,7 +50,7 @@
 <b>salt : SHA-1 암호화 키 컬럼</b><br>
 <b>addr1,addr2,addr3 : 고객 주소</b><br>
 
-* <code>fupayment</code> : <b>구매 정보 테이블</b>
+* <code>fupayment</code> : <b>구매 정보 테이블</b><br/>
 <b>payid : 결제번호</b><br>
 <b>email : 주문 고객 email</b><br>
 <b>paytype : 결제타입(카드,실시간이체,무통장입금)</b><br>
@@ -62,7 +62,7 @@
 <b>buydate : 결제 시간 </b><br>
 <b>paydate : 결제 타입</b><br>
 
-* <code>QABoard,Review</code> : <b>질문사항,상품 리뷰</b>
+* <code>QABoard,Review</code> : <b>질문사항,상품 리뷰</b><br/>
 <b>id : 고객 ID </b><br>
 <b>Name : 고객 Name</b><br>
 <b>subject : 제목</b><br>
