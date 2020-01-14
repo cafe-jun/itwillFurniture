@@ -54,7 +54,7 @@
 <b>payid : 결제번호</b><br>
 <b>email : 주문 고객 email</b><br>
 <b>paytype : 결제타입(카드,실시간이체,무통장입금)</b><br>
-<b>iamgePath : 구매한 상품 이미지 경로 </b><br>
+<b>imagePath : 구매한 상품 이미지 경로 </b><br>
 <b>productInfo : 구매한 상품 정보</b><br>
 <b>productEa : 구매한 제품 갯수</b><br>
 <b>productPrice : 상품별 개수*가격 </b><br>
