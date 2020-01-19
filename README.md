@@ -86,22 +86,30 @@
 <li><b>Member</b> : 회원가입,로그인 등 회원 관련 페이지</li>
 
 
+
+*Project 담당 내용 설명 
+----------------------------
+
+<b>메인 화면 </b>
 <img src="/githubimage/main.png" width="850px" height="400px"></img><br/><br/>
 
 
+<b>회원 가입 화면 </b>
 <img src="/githubimage/memberRegi.png" width="850px" height="400px"></img><br/><br/>
 
 
+<b>결제 화면</b>
 <img src="/githubimage/payment.png" width="850px" height="400px"></img><br/><br/>
 
 
+<b>결제 이후 페이지 화면</b>
 <img src="/githubimage/paysucess.png" width="850px" height="400px"></img><br/><br/>
 
 
+<b>장바구니 확인</b>
 <img src="/githubimage/basket.png" width="850px" height="400px"></img><br/><br/>
 
 
-<img src="/githubimage/emailConfrm1.png" width="850px" height="400px"></img><br/><br/>
-
-
+<b>이메일 인증및 인증 성공 확인</b>
+<img src="/githubimage/emailConfrm1.png" width="850px" height="400px"></img><br/>
 <img src="/githubimage/emailConfirm2.png" width="850px" height="400px"></img><br/><br/>
