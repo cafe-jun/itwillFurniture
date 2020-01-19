@@ -86,5 +86,22 @@
 <li><b>Member</b> : 회원가입,로그인 등 회원 관련 페이지</li>
 
 
+<img src="/githubimage/main.png" width="850px" height="400px"></img><br/><br/>
 
 
+<img src="/githubimage/memberRegi.png" width="850px" height="400px"></img><br/><br/>
+
+
+<img src="/githubimage/payment.png" width="850px" height="400px"></img><br/><br/>
+
+
+<img src="/githubimage/paysucess.png" width="850px" height="400px"></img><br/><br/>
+
+
+<img src="/githubimage/basket.png" width="850px" height="400px"></img><br/><br/>
+
+
+<img src="/githubimage/emailConfrm1.png" width="850px" height="400px"></img><br/><br/>
+
+
+<img src="/githubimage/emailConfirm2.png" width="850px" height="400px"></img><br/><br/>
